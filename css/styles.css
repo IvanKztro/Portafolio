@@ -160,15 +160,27 @@
         margin-top: 65%;
         border-radius: 15px;  
     }
+    .webDevelper{
+        height: 2150px;
+    }
     .h4Exp{
         font-size: 16px;
     }
     .exp{
-        font-size: 14px;
+        font-size: 15px;
     }
     .exp_lab{
-        height: 850px;
+        
+        height: 900px;
         width: 100%;
+    }
+    .content_exp{
+        padding-top: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .footer{
+        padding-bottom: 100px;
     }
     @keyframes LetrasS {
         from {
