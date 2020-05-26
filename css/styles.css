@@ -178,6 +178,7 @@
     .header{
         margin-top: 65%;
         border-radius: 15px;  
+        font-size:20px;
     }
     .webDevelper{
         height: 2150px;
@@ -201,12 +202,8 @@
     .footer{
         padding-bottom: 100px;
     }
-    @keyframes LetrasS {
-        from {
-            font-size: 0px;
-        }   
-        to {
-            font-size: 20px; 
-        }
-      }
+    @keyframes example{
+        from{  margin-top: -8.6%; }
+        to{  margin-top: 65%; }
+    }
 }
