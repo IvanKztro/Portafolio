@@ -241,6 +241,10 @@
       from{  margin-top: -7.5%; }
       to{  margin-top: 18%; }
   }
+#Contacto h3{
+    
+    color:white;
+}
 
 @media (max-width: 575.98px)
 {
